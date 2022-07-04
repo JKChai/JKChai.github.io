@@ -3,6 +3,9 @@ title: 👋 Hello World !!
 geekdocNav: true
 geekdocAlign: center
 geekdocAnchor: false
+# Show a breadcrumb navigation bar at the top of each docs page.
+geekdocBreadcrumb: false
+
 resources:
   - name: Hugo Wiki Logo
     src: "2560px-Logo_of_Hugo_the_static_website_generator.png"

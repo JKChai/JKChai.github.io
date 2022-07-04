@@ -1,6 +1,9 @@
 ---
 title: "About us"
 geekdocNav: true
+# Show a breadcrumb navigation bar at the top of each docs page.
+geekdocBreadcrumb: false
+
 draft: false
 ---
 
