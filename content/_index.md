@@ -49,7 +49,7 @@ Answer common `Python` questions that can be found from Google, Stack Overflow, 
 
 ### DS Knowledge Hub
 
-Provide articles and notes that cover fundamental tools use in the Data Science realm which might cover descriptive, diadnosis, predictive, and prescriptive analysis.
+Provide articles and notes that cover fundamental tools use in the Data Science realm which might cover descriptive, diagnosis, predictive, and prescriptive analysis.
 
 <---> <!-- magic separator, between columns -->
 
