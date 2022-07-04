@@ -1,8 +1,8 @@
 # MartianSite
 
-This is an experimental blog site currently maintaining by JKChai & Lun for self-learning and note taking purposes. This site is built with [Hugo](https://hugo.io) using [GeekDocs](https://github.com/thegeeklab/hugo-geekdoc) theme and hosted on [GitHub page](https://JKChai/jkchai.github.io).
+This is an experimental blog site currently maintaining by JKChai & Lun for self-learning and note taking purposes. This site is built with [Hugo](https://hugo.io) using [GeekDocs](https://github.com/thegeeklab/hugo-geekdoc) theme and hosted on [GitHub page](https://jkchai.github.io).
 
-The author is currently using this Site for posting own Data Structure & Algorithmic problems solution attempted from Leetcode, but more contents will be added along the way. Please visit [MartianSite](https://JKChai/jkchai.github.io) for the existing posts and posted Leetcode questions.
+The author is currently using this Site for posting own Data Structure & Algorithmic problems solution attempted from Leetcode, but more contents will be added along the way. Please visit [MartianSite](https://jkchai.github.io) for the existing posts and posted Leetcode questions.
 
 ## Feedback & Issue
 
