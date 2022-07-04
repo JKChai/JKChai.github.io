@@ -34,10 +34,8 @@ posts_count:
   other: "{{ . }} posts"
 posts_tagged_with: All posts tagged with '{{ . }}'
 
-# Modification made on 07/03/2022 1:31 AM by JKChai
 footer_build_with: >
-  Built with <a href="https://gohugo.io/" class="gdoc-footer__link">Hugo</a> 
-  by JK and Co-Authored with Lun
+  Built with <a href="https://gohugo.io/" class="gdoc-footer__link">Hugo</a> and
   <svg class="gdoc-icon gdoc_heart"><use xlink:href="#gdoc_heart"></use></svg>
 footer_legal_notice: Legal Notice
 footer_privacy_policy: Privacy Policy
