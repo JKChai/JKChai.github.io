@@ -19,6 +19,6 @@ JKChai is a BI Developer graduated with Quant Finance, Data Science & Business A
 
 # Lun 🤝
 
-Lun has a Psychology degree and had previously worked as a teacher, sales, and admin. He is a self-taught programmer and has recently involved himself more working with data science project on Kaggle. In terms of career goal, he hopes to become a Software Development Engineer by using his learned skills and techniques to help solved industries problems. Thus, he continues to pursue his dream through learning and practicing through the web and peers.
+Lun has a Psychology degree and had previously worked as a teacher, sales, and admin. He is a self-taught programmer and has recently involved himself more working with data science project on Kaggle to enhance his problem solving skills. In terms of career goal, he hopes to become a Software Development Engineer by using his learned computer science skills and techniques to help solved industry problems. Thus, he continues to pursue his dream through learning and practicing from the web and peers.
 
 {{< /columns >}}
