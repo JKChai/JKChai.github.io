@@ -1,4 +1,4 @@
-baseURL = "http://jkchai.github.io/"
+baseURL = "https://jkchai.github.io/"
 title = "MartianSite"
 theme = "hugo-geekdoc"
 
