@@ -20,5 +20,6 @@ Do note that both authors are self-taught programmers whom are neither experienc
 
 # Leetcode Question
 
+- {{< button relref="/Leetcode/Q26" size="regular" >}}Q27 Remove Duplicates  from Sorted Array{{< /button >}}
 - {{< button relref="/Leetcode/Q27" size="regular" >}}Q27 Remove Elements{{< /button >}}
 - {{< button relref="/Leetcode/Q217" size="regular" >}}Q217 Contains Duplicate{{< /button >}}
